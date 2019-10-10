@@ -2,16 +2,16 @@
 <testng-results skipped="2" failed="0" ignored="0" total="2" passed="0">
   <reporter-output>
   </reporter-output>
-  <suite name="Suite" duration-ms="1115" started-at="2019-10-10T08:08:28Z" finished-at="2019-10-10T08:08:29Z">
+  <suite name="Suite" duration-ms="2646" started-at="2019-10-10T08:25:07Z" finished-at="2019-10-10T08:25:09Z">
     <groups>
     </groups>
-    <test name="Test" duration-ms="1115" started-at="2019-10-10T08:08:28Z" finished-at="2019-10-10T08:08:29Z">
+    <test name="Test" duration-ms="2646" started-at="2019-10-10T08:25:07Z" finished-at="2019-10-10T08:25:09Z">
       <class name="starter.testRunner.CucumberTestSuite">
-        <test-method status="PASS" signature="setUpClass()[pri:0, instance:starter.testRunner.CucumberTestSuite@6328d34a]" name="setUpClass" is-config="true" duration-ms="125" started-at="2019-10-10T08:08:28Z" finished-at="2019-10-10T08:08:29Z">
+        <test-method status="PASS" signature="setUpClass()[pri:0, instance:starter.testRunner.CucumberTestSuite@6328d34a]" name="setUpClass" is-config="true" duration-ms="172" started-at="2019-10-10T08:25:07Z" finished-at="2019-10-10T08:25:07Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUpClass -->
-        <test-method status="SKIP" signature="feature(cucumber.api.testng.PickleEventWrapper, cucumber.api.testng.CucumberFeatureWrapper)[pri:0, instance:starter.testRunner.CucumberTestSuite@6328d34a]" name="feature" duration-ms="881" started-at="2019-10-10T08:08:29Z" data-provider="features" finished-at="2019-10-10T08:08:29Z">
+        <test-method status="SKIP" signature="feature(cucumber.api.testng.PickleEventWrapper, cucumber.api.testng.CucumberFeatureWrapper)[pri:0, instance:starter.testRunner.CucumberTestSuite@6328d34a]" name="feature" duration-ms="2338" started-at="2019-10-10T08:25:07Z" data-provider="features" finished-at="2019-10-10T08:25:09Z">
           <params>
             <param index="0">
               <value>
@@ -64,7 +64,7 @@ at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
           <reporter-output>
           </reporter-output>
         </test-method> <!-- feature -->
-        <test-method status="SKIP" signature="feature(cucumber.api.testng.PickleEventWrapper, cucumber.api.testng.CucumberFeatureWrapper)[pri:0, instance:starter.testRunner.CucumberTestSuite@6328d34a]" name="feature" duration-ms="15" started-at="2019-10-10T08:08:29Z" data-provider="features" finished-at="2019-10-10T08:08:29Z">
+        <test-method status="SKIP" signature="feature(cucumber.api.testng.PickleEventWrapper, cucumber.api.testng.CucumberFeatureWrapper)[pri:0, instance:starter.testRunner.CucumberTestSuite@6328d34a]" name="feature" duration-ms="9" started-at="2019-10-10T08:25:09Z" data-provider="features" finished-at="2019-10-10T08:25:09Z">
           <params>
             <param index="0">
               <value>
@@ -117,7 +117,7 @@ at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
           <reporter-output>
           </reporter-output>
         </test-method> <!-- feature -->
-        <test-method status="PASS" signature="tearDownClass()[pri:0, instance:starter.testRunner.CucumberTestSuite@6328d34a]" name="tearDownClass" is-config="true" duration-ms="16" started-at="2019-10-10T08:08:29Z" finished-at="2019-10-10T08:08:29Z">
+        <test-method status="PASS" signature="tearDownClass()[pri:0, instance:starter.testRunner.CucumberTestSuite@6328d34a]" name="tearDownClass" is-config="true" duration-ms="0" started-at="2019-10-10T08:25:09Z" finished-at="2019-10-10T08:25:09Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDownClass -->
